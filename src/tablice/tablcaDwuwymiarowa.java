@@ -38,5 +38,6 @@ public class tablcaDwuwymiarowa {
                 System.out.println(tab[j][i] + tab[j-1][i]);
             }
         }
+        System.out.println("hi");
     }
 }

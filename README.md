@@ -1,2 +1,2 @@
 # MaturaInformatyka
-Repozytorium do nauki obsługi git'a
+Repozytorium do nauki obsługi git'a 
